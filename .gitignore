@@ -1,0 +1,14 @@
+UnityProject/Temp
+UnityProject/obj
+UnityProject/Library
+UnityProject/.vs
+UnityProject/*.apk
+UnityProject/*.sln
+UnityProject/*.csproj
+UnityProject/Assets/StreamingAssets.meta
+UnityProject/Assets/StreamingAssets
+UnityProject/Profile
+UnityProject/.DS_Store
+/.vscode
+UnityProject/Logs
+UnityProject/Config/
